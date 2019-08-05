@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+
+}
+
+p{
+    color:red;
+}
+
+img{
+    width:300px;
+}
+
+h1{
+    color: red;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
