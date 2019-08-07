@@ -40,3 +40,8 @@ li a {
 li a:hover {
     background-color: red;
 }
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
